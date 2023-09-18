@@ -6,10 +6,17 @@ group: home
 
 <img src="/static/img/Giving_microed_talk.jpg" class="img-responsive center-block" alt="Giving a talk about recent developments in electron crystallography, February 2014"/>
 
-<h1 class="text-center">Benjamin Barad, Ph.D.</h1>
+<h1 class="text-center">Erick Gathege, ALX.</h1>
 
 <p class="lead text-justify">
-I am a structural biologist with a special interest in emerging computational and experimental methods in electron microscopy. I am working as a postdoc with [Danielle Grotjahn](https://www.scripps.edu/faculty/grotjahn/), using cryo-electron tomography of focused ion beam-thinned cells to quantify mitochondrial morphology and solve _in situ_ protein structures. In particular, I am excited about the power of electron tomography to contextualize the structure, dynamics, and interactions of proteins as they perform their physiolocal function in the cell.    
-I received my PhD in biophysics from UCSF in the lab of [James Fraser](http://fraserlab.com), where I developed methods for the building and validating atomic models generated from single particle electron microscopy, as well as investigating the mechanisms of activity of mammalian chitinases. Before that, I was an undergraduate at Stanford University studying Biological Chemistry, where I worked with [Elizabeth Sattely](http://www.stanford.edu/group/sattelygroup/cgi-bin/wordpress/) investigating bacterial degradation of the plant polymer lignin.   
-Beyond my scientific interests, I am excited about food and cooking, coffee, 3D printing, and games. 
+I am a Software Engineer studying with ALX Africa group. As an ALX student, I have gained valuable skills and experience in full-stack software engineering. By creating this personal portfolio, I am able to showcase my best work and set myself apart from the competition. It is an opportunity to market myself and tell a compelling story about my journey to becoming a full-stack software engineer.
+  
+To showcase my expertise and capabilities, I have created a personal portfolio that includes the following:
+Projects: I have included a variety of projects that demonstrate my skills and experience, such as web applications, mobile applications, or other software projects. Each project includes a brief description, screenshots or videos of the projects in action, and links to the code repositories on GitHub or other platforms.
+Information about me: I have included my name, contact information, and a brief introduction that highlights my skills, experience, and career goals.
+Skills: I have listed my technical skills and any relevant certifications or training I have completed.
+Achievements: I have highlighted any notable achievements, such as awards, publications, or contributions to open-source projects.
+Education: I have listed my educational background, including any degrees or certifications I have earned.
+Work experience: I have provided a summary of my work experience, including my job titles, responsibilities, and accomplishments  
+Beyond my Alx experience, I am excited about food and cooking, coffee, 3D printing, and games. 
 </p>
