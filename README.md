@@ -1,9 +1,9 @@
-bbarad.github.io
+ric254.github.io
 ================
-Freely licensed personal website for Benjamin Barad
+Freely licensed personal website for Erick Gathege
 
 ## How to clone this website:
-1. Fork it and change the repository name to USERNAME.github.io (mine was bbarad, but that won't work for you!)
+1. Fork it and change the repository name to USERNAME.github.io (mine was ric254, but that won't work for you!)
 2. Delete CNAME (you can add a new one later)
 3. Delete my publications in _data/publications.yml and add your own, using the existing ones as a template.
 4. Update index.md and contact.md
