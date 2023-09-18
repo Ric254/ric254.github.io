@@ -4,7 +4,7 @@ layout: default
 group: home
 ---
 
-<img src="/static/img/Giving_microed_talk.jpg" class="img-responsive center-block" alt="Giving a talk about recent developments in electron crystallography, February 2014"/>
+<img src="/static/img/FB_IMG_1599881673898.jpg" class="img-responsive center-block" alt="A picture of me"/>
 
 <h1 class="text-center">Erick Gathege, ALX.</h1>
 
